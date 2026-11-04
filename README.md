@@ -20,6 +20,24 @@
 - ⚡ Performance Optimization & Web Vitals
 - 🤖 AI-assisted Development
 
+
+
+<div align="center">
+
+  <a href="mailto:andriipositko@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+
+  <a href="https://linkedin.com/in/andrii-positko" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" />
+  </a>
+
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=stackshare&logoColor=white" alt="Portfolio" />
+  </a>
+
+</div>
+
 ---
 
 ### 🛠️ Languages & Frameworks

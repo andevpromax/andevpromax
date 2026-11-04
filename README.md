@@ -1,44 +1,24 @@
-
-<!-- <div align="center">
-
-<h1>Hi 👋, I'm Andrii</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Senior+Frontend+Engineer;Fullstack+JavaScript+Developer;React+%7C+Next.js+%7C+Node.js;Passionate+about+Web+Development" alt="Typing SVG" />
-
-<h3>Building scalable and high-performance web applications 🚀</h3>
-
-</div> -->
-
-
-### A passionate Software Engineer focused on building modern web applications 🚀
-
-🔭 I've been working as a Software Engineer for 7+ years, specializing in Frontend and Fullstack Development.
-
-🌱 I'm passionate about React, Next.js, JavaScript, TypeScript, and building scalable, high-performance applications.
-
-📚 **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, Zustand, Redux, React Query
-
-⚙️ **Backend:** Node.js, Express.js, REST APIs, BFF Architecture, SQL, SQLite
-
-🛠️ **DevOps & Tools:** Git, GitHub Actions, Docker, CI/CD, Vercel
-
-🧪 **Testing:** Jest, Vitest, React Testing Library, Playwright
-
-💬 Ask me about **React, Next.js, Node.js, Frontend Architecture, or anything [here](https://github.com/andevpromax/andevpromax/issues)**
-
-⚡ **Fun fact:** I love turning complex problems into simple, elegant solutions.
-
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5500&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hi+There%21+%F0%9F%91%8B;I%27m+Andrii+Positko!"
+    alt="Typing SVG"
+  />
+  
+---
+  
+  <h3>A passionate Software Engineer 🚀</h3>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 7+ years of frontend development experience
-- 🚀 React, Next.js, TypeScript, Node.js
-- 🏗️ Frontend Architecture & System Design
-- ⚡ Performance Optimization
+- 💻 7+ years of experience in Software Engineering
+- ⚙️ Backend: Node.js, Express.js, REST APIs, BFF Architecture
+- 🚀 Frontend: JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- 🏗️ Architecture & System Design
+- ⚡ Performance Optimization & Web Vitals
 - 🤖 AI-assisted Development
-- 🌍 Open to international opportunities
 
 ---
 

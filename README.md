@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=5500&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hi+There%21+%F0%9F%91%8B;I%27m+Andrii+Positko!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1200&color=38BDF8&center=true&vCenter=true&width=500&height=80&lines=Hi+There%21+%F0%9F%91%8B;I%27m+Andrii+Positko!"
     alt="Typing SVG"
   />
   
@@ -8,10 +8,6 @@
   
   <h3>A passionate Software Engineer 🚀</h3>
 </div>
-
----
-
-## 👨‍💻 About Me
 
 - 💻 7+ years of experience in Software Engineering
 - ⚙️ Backend: Node.js, Express.js, REST APIs, BFF Architecture
@@ -142,15 +138,40 @@
 
 ---
 
-### 📊 GitHub Statistics
+<h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=andevpromax&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andevpromax&layout=compact&theme=tokyonight" />
-
+  <img
+    src="https://raw.githubusercontent.com/andevpromax/andevpromax/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </div>
+
+<br/>
+
+<div align="center">
+  <img
+    width="390"
+    src="https://streak-stats.demolab.com/?user=andevpromax&theme=react&border_radius=10"
+    alt="GitHub Streak"
+  />
+  <img
+    width="390"
+    src="https://github-stats-extended.vercel.app/api?username=andevpromax&show_icons=true&theme=react&rank_icon=github&border_radius=10"
+    alt="GitHub Statistics"
+  />
+  <br/>
+  <img
+    width="325"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=andevpromax&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"
+    alt="Most Used Languages"
+  />
+</div>
+
+<br/>
+
+---
+
 
 ---
 
